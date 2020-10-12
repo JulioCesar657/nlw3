@@ -2,14 +2,14 @@
 
 ## :open_book: Índice
 
-- [Sobre](#-Sobre)
-- [Prévia](#-Previa)
+- [Sobre](#-sobre)
+- [Prévia](#-previa)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Como executar o projeto](#-como-executar-o-projeto)
 
 ***
 
-## Sobre 
+## :page_with_curl:Sobre 
 
 Projeto criado durante a NLW 3 (Next Level Week 3), um evento realizado pela [@rocketseat](https://github.com/Rocketseat). 
 
@@ -17,7 +17,7 @@ A projeto, criado durante o Dia das Crianças, tem como proposta conectar as pes
 
 ***
 
-## :eyes: Previa
+## :eyes:Previa
 
 ![Imgur](https://i.imgur.com/XvU9p5C.png)
 

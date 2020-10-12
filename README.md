@@ -2,10 +2,10 @@
 
 ## :open_book: Índice
 
-- [Sobre](#-sobre)
-- [Prévia](#-previa)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Como executar o projeto](#-como-executar-o-projeto)
+- [Sobre](#page_with_curlsobre)
+- [Prévia](#-eyesprevia)
+- [Tecnologias utilizadas](#technologist-tecnologias-utilizadas)
+- [Como executar o projeto](#-desktop_computer-como-executar-o-projeto)
 
 ***
 

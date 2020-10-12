@@ -4,8 +4,8 @@
 
 - [Sobre](#-Sobre)
 - [Prévia](#-Previa)
-- [Tecnologias utilizadas](#-Tecnologias-utilizadas)
-- [Como executar o projeto](#-Como-executar-o-projeto)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Como executar o projeto](#-como-executar-o-projeto)
 
 ***
 

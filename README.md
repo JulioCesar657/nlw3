@@ -2,7 +2,7 @@
 
 ## :open_book: Índice
 
-- [Sobre](#-Sobre)
+- [Sobre](#-:page_with_curl:-Sobre)
 - [Prévia](#-Previa)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
 - [Como executar o projeto](#-Como-executar-o-projeto)

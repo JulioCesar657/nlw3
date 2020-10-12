@@ -19,7 +19,7 @@ A projeto, criado durante o Dia das Crianças, tem como proposta conectar as pes
 
 ## :eyes: Previa
 
-[Imgur](https://i.imgur.com/XvU9p5C.png)
+![Imgur](https://i.imgur.com/XvU9p5C.png)
 
 ***
 

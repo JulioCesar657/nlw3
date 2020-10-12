@@ -2,14 +2,14 @@
 
 ## :open_book: Índice
 
-- [Sobre](#--Sobre)
+- [Sobre](#-Sobre)
 - [Prévia](#-Previa)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
 - [Como executar o projeto](#-Como-executar-o-projeto)
 
 ***
 
-## :page_with_curl: Sobre 
+## Sobre 
 
 Projeto criado durante a NLW 3 (Next Level Week 3), um evento realizado pela [@rocketseat](https://github.com/Rocketseat). 
 

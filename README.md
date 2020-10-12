@@ -3,9 +3,9 @@
 ## :open_book: Índice
 
 - [Sobre](#page_with_curlsobre)
-- [Prévia](#-eyesprevia)
+- [Prévia](#eyesprévia)
 - [Tecnologias utilizadas](#technologist-tecnologias-utilizadas)
-- [Como executar o projeto](#-desktop_computer-como-executar-o-projeto)
+- [Como executar o projeto](#desktop_computer-como-executar-o-projeto)
 
 ***
 
@@ -17,7 +17,7 @@ A projeto, criado durante o Dia das Crianças, tem como proposta conectar as pes
 
 ***
 
-## :eyes:Previa
+## :eyes:Prévia
 
 ![Imgur](https://i.imgur.com/XvU9p5C.png)
 
